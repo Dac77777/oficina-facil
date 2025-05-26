@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oficina-facil/static/css/main.b3506e40.css",
+    "main.js": "/oficina-facil/static/js/main.60d4b8a1.js",
+    "index.html": "/oficina-facil/index.html",
+    "main.b3506e40.css.map": "/oficina-facil/static/css/main.b3506e40.css.map",
+    "main.60d4b8a1.js.map": "/oficina-facil/static/js/main.60d4b8a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3506e40.css",
+    "static/js/main.60d4b8a1.js"
+  ]
+}
